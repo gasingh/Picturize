@@ -43,7 +43,7 @@ It utilizes the opensource [exif tool](https://exiftool.org/) library at the bac
 
 ## IMAGES
 
-![total_a](https://user-images.githubusercontent.com/6398561/211146944-04d03b60-38d9-4b91-bf8c-57081c5dff91.jpg)
+![total_a - Copy](https://user-images.githubusercontent.com/6398561/211147311-a22cf348-7f65-4a9f-a15d-da97e30ec903.jpg)
 ![total_a4b](https://user-images.githubusercontent.com/6398561/211146945-1e441ccb-852e-44fe-b117-99d9f316003a.jpg)
 ![](https://blogs.ethz.ch/girotmasla1314/files/2014/07/workspace.jpg)
 ![](https://blogs.ethz.ch/girotmasla1314/files/2014/07/tecnical-desciption-1.jpg)
